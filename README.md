@@ -45,7 +45,6 @@
 
 <hr>
 <h2>PROGRAM</h2>
-``````
 
 ``````
 from collections import defaultdict
